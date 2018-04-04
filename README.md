@@ -16,6 +16,7 @@
 
 详情请参考：
 - [关于域名 itacnes.cn 的whois信息及网站信息-阿里云](https://whois.aliyun.com/whois/domain/itacnes.cn)
+- [itrnes.cn的Whois信息 - 站长工具](http://whois.chinaz.com/itrnes.cn)
 - [北京蓝海基业科技有限公司_百度百科](https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E8%93%9D%E6%B5%B7%E5%9F%BA%E4%B8%9A%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/20058890?fr=aladdin)
 
 ## DNS信息
@@ -27,7 +28,10 @@
 
 ## 开放端口
 目前已知：
-- 80
+- 80 web
+- 999 phpMyAdmin
+- 6588 护卫神登录界面
+- 7788
 
 # FUCK TOOL
 调查了这么多，其实就是想恶搞一下这个钓鱼网站，目前采用了一种十分暴力简单的方式，这不是钓鱼网站么，目的就是搜集iCloud账号，所以我就大量给这个网站提交垃圾账号，所谓垃圾账号是随机生成，当然还有密保问题就是素质三连了 :triumph:
